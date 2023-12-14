@@ -8,3 +8,6 @@ def multiplication(a,c):
 
 def multiplication(n,c):
     return n*c
+
+print("bye")
+print("wow")
