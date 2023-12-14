@@ -5,3 +5,6 @@ def addition(a,b):
 def multiplication(a,c):
     return a*c
 
+
+def multiplication(n,c):
+    return n*c
