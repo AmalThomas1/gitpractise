@@ -10,4 +10,4 @@ def multiplication(n,c):
     return n*c
 
 print("bye")
-print("wow")
+print("met")
