@@ -3,9 +3,9 @@ def addition(a,b,c):
     
     return a+b+c
 
-
-def multiplication(a,c):
-    return a*c
+#multiplication
+def multiplication(a,c,d):
+    return a*c*d
 
 
 def multiplication(n,c):
