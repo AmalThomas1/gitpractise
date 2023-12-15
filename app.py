@@ -7,9 +7,9 @@ def addition(a,b,c):
 def multiplication(a,c,d):
     return a*c*d
 
-
-def multiplication(n,c,g):
-    print(n*c*g)
+#multiply
+def multiplication(n,c,g,u):
+    print(n*c*g*u)
 
 
 print("bye")
