@@ -3,7 +3,7 @@ def addition(a,b,c):
     
     return a+b+c
 
-#multiplication
+
 def multiplication(a,c,d):
     return a*c*d
 
