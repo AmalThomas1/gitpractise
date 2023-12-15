@@ -8,8 +8,9 @@ def multiplication(a,c,d):
     return a*c*d
 
 
-def multiplication(n,c):
-    return n*c
+def multiplication(n,c,g):
+    print(n*c*g)
+    return n*c*g
 
 print("bye")
 print("meeted")
