@@ -1,4 +1,4 @@
-### addition
+#### addition
 def addition(a,b,c):
     
     return a+b+c
@@ -7,9 +7,9 @@ def addition(a,b,c):
 def multiplication(a,c,d):
     return a*c*d
 
-
-def multiplication(n,c):
-    return n*c
+#mulpiply
+def multiplication(n,c,g):
+    return n*c*g
 
 print("bye")
 print("meeted")
