@@ -6,6 +6,10 @@ def addition(a,b,c):
 
 def multiplication(a,c,d):
     return a*c*d
+def division(a,c,d):
+    return a/c/d
+
+
 
 #multiply
 def multiplication(n,c,g,u):
